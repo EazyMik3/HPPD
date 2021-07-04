@@ -11,5 +11,6 @@ const CONFIG = {
     reply: 'Ok luôn ib chuyển khoản liền',
     mess: 'Hê hê uy tín thế là tốt😁',
     messDesc: 'Khả năng có hạn nên là tới đây thôi😁',
-    btnAccept: 'Okiiiii lun <3'
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://m.me/blade.hasaki.5'
 }
