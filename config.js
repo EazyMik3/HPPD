@@ -10,5 +10,7 @@ const CONFIG = {
     btnReply: 'Reply',
     reply: 'Ok luôn ib chuyển khoản liền',
     mess: 'Hê hê uy tín thế là tốt😁',
-    messLink: 'https://www.messenger.com/t/100008998754871/'
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'm.me/hasaki.blade'
 }
